@@ -1,2 +1,2 @@
 # banco-dados-faculdade
- Banco de Dados na faculdade
+ Banco de Dados na Faculdade - (2° Semestre).
