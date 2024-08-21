@@ -1,4 +1,4 @@
-package bancodedados.chamar;
+package bancodedados.domain;
 
 public class Main {
     public static void main(String[] args) {
