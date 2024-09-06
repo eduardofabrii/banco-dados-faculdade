@@ -109,8 +109,8 @@ b) Qual o comando para visualizar as inserções para ver se elas estão correta
 R: SELECT * FROM DISCIPLINA;
 
 c) Crie e execute um comando para inserir mais 5 registros / linhas na tabela disciplina.
-R: 
-INSERT INTO disciplina VALUES
+R: <br>
+INSERT INTO disciplina VALUES<br>
 (2, 'Matemática Aplicada', 'Estudo das aplicações práticas da matemática em diversos campos, incluindo engenharia e ciências sociais.', 4, 4),<br>
 (3, 'História da Arte', 'Análise dos principais movimentos artísticos ao longo da história, incluindo o Renascimento, Barroco e Modernismo.', 3, 6),<br>
 (4, 'Programação Avançada', 'Aprofundamento em técnicas avançadas de programação, incluindo algoritmos complexos e estruturas de dados.', 5, 1),<br>
