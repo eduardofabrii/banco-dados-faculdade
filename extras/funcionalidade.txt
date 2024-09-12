@@ -1,0 +1,1 @@
+A funcionalidade escolhida para a aplicação será a Edição de Perfil, permitindo que os usuários alterem seus dados registrados, como nome, email, telefone, endereço, e senha.
